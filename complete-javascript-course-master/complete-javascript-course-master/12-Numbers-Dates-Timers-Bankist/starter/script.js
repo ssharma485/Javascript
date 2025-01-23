@@ -340,7 +340,7 @@ labelBalance.addEventListener('click',function(){
 // console.log(Math.max(5,'18','34',9))
 // console.log(Math.min(5,'18','34',9))
 // console.log((Math.random() * 6)+1); // random between 1 and 6
-
+//Hello
 // //Rounding decimals
 // console.log((2.7).toFixed(0));
 // console.log((2.7).toFixed(3));
